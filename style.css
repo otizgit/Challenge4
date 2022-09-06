@@ -34,8 +34,8 @@ body {
     border-bottom-right-radius: 10px;
     flex-basis: 50%;
     position: relative;
-    background-color: purple;
-    opacity: 0.84;
+    background-color: rgb(247, 122, 247);
+    opacity: 0.54;
 }
 .image-div img {
     width: 100%;
@@ -67,7 +67,7 @@ body {
     margin-bottom: 70px;
 }
 .preview span {
-    color: rgba(224, 0, 224, 0.664);
+    color: rgb(173, 28, 173);
 }
 
 .features {
