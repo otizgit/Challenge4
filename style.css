@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
 }
 
 body {
@@ -33,12 +34,15 @@ body {
     border-bottom-right-radius: 10px;
     flex-basis: 50%;
     position: relative;
+    background-color: purple;
+    opacity: 0.84;
 }
 .image-div img {
     width: 100%;
     height: 100%;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
+    mix-blend-mode: multiply;
 }
 
 .overlay {
